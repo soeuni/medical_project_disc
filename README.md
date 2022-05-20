@@ -20,4 +20,4 @@
   
   
 
-![readme_img](C:\Users\soeun\Desktop\readme_img.png)
+![readme_img](https://user-images.githubusercontent.com/52689918/169573238-c15036a9-7691-4b07-b2af-b4ca7d8200f0.png)
