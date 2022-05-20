@@ -17,3 +17,7 @@
 * 연구 방법
 
   x-ray 이미지를 사용하여 추간판 탈출증 예측
+  
+  
+
+![readme_img](C:\Users\soeun\Desktop\readme_img.png)
