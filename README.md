@@ -20,11 +20,10 @@
   </br></br>
   
   
-
-<<<<<<< HEAD
-![readme_img](C:\Users\soeun\Desktop\readme_img.png)
+  ![readme_img](C:\Users\soeun\Desktop\readme_img.png)
 
 
 
 * 실험 데이터
   환자 수: 31,149명
+  데이터 수: 162,256장
