@@ -17,13 +17,14 @@
 * 연구 방법
 
   x-ray 이미지를 사용하여 추간판 탈출증 예측
+  </br></br>
   
   
 
+<<<<<<< HEAD
 ![readme_img](C:\Users\soeun\Desktop\readme_img.png)
 
 
 
 * 실험 데이터
   환자 수: 31,149명
-  이미지 수: 162,256장
