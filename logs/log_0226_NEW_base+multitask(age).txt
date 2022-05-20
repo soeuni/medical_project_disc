@@ -1,0 +1,160 @@
+Sat Feb 26 19:16:08 2022 Fold 0, Epoch 1, lr: 0.0000300, train loss: 1.98055, valid loss: 0.35519, Acc: 85.3976
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sat Feb 26 20:00:33 2022 Fold 0, Epoch 2, lr: 0.0003000, train loss: 1.76303, valid loss: 0.34678, Acc: 85.5352
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sat Feb 26 20:44:46 2022 Fold 0, Epoch 3, lr: 0.0002980, train loss: 1.62126, valid loss: 0.34942, Acc: 85.5264
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sat Feb 26 21:26:18 2022 Fold 0, Epoch 4, lr: 0.0002919, train loss: 1.46137, valid loss: 0.35160, Acc: 85.3780
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sat Feb 26 22:09:57 2022 Fold 0, Epoch 5, lr: 0.0002819, train loss: 1.25060, valid loss: 0.35177, Acc: 85.4340
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sat Feb 26 22:53:26 2022 Fold 0, Epoch 6, lr: 0.0002684, train loss: 1.02811, valid loss: 0.35228, Acc: 85.3342
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sat Feb 26 23:36:35 2022 Fold 0, Epoch 7, lr: 0.0002516, train loss: 0.78371, valid loss: 0.35505, Acc: 85.4281
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 00:20:24 2022 Fold 0, Epoch 8, lr: 0.0002320, train loss: 0.52628, valid loss: 0.35581, Acc: 85.4079
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 01:03:25 2022 Fold 0, Epoch 9, lr: 0.0002103, train loss: 0.34815, valid loss: 0.36082, Acc: 85.1460
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 01:46:51 2022 Fold 0, Epoch 10, lr: 0.0001868, train loss: 0.26638, valid loss: 0.37001, Acc: 84.8786
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 02:30:26 2022 Fold 0, Epoch 11, lr: 0.0001624, train loss: 0.21837, valid loss: 0.37610, Acc: 84.3606
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 03:13:38 2022 Fold 0, Epoch 12, lr: 0.0001376, train loss: 0.18441, valid loss: 0.39507, Acc: 84.4731
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 03:56:36 2022 Fold 0, Epoch 13, lr: 0.0001132, train loss: 0.15774, valid loss: 0.41056, Acc: 83.8066
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 04:40:17 2022 Fold 0, Epoch 14, lr: 0.0000897, train loss: 0.13354, valid loss: 0.44487, Acc: 83.4783
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 05:23:20 2022 Fold 0, Epoch 15, lr: 0.0000680, train loss: 0.11196, valid loss: 0.48892, Acc: 83.1397
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 06:06:38 2022 Fold 0, Epoch 16, lr: 0.0000484, train loss: 0.09008, valid loss: 0.54290, Acc: 83.1879
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 06:50:10 2022 Fold 0, Epoch 17, lr: 0.0000316, train loss: 0.07174, valid loss: 0.60837, Acc: 82.4172
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 07:33:12 2022 Fold 0, Epoch 18, lr: 0.0000181, train loss: 0.05763, valid loss: 0.66679, Acc: 82.9165
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 08:16:13 2022 Fold 0, Epoch 19, lr: 0.0000081, train loss: 0.04834, valid loss: 0.70124, Acc: 82.5981
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 08:59:21 2022 Fold 0, Epoch 20, lr: 0.0000020, train loss: 0.04414, valid loss: 0.70434, Acc: 82.7258
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 09:42:58 2022 Fold 1, Epoch 1, lr: 0.0000300, train loss: 1.98492, valid loss: 0.35212, Acc: 85.5031
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 10:26:29 2022 Fold 1, Epoch 2, lr: 0.0003000, train loss: 1.76116, valid loss: 0.34720, Acc: 85.6115
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 11:09:55 2022 Fold 1, Epoch 3, lr: 0.0002980, train loss: 1.62239, valid loss: 0.34488, Acc: 85.6283
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 11:48:21 2022 Fold 1, Epoch 4, lr: 0.0002919, train loss: 1.48479, valid loss: 0.34978, Acc: 85.6366
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 12:25:50 2022 Fold 1, Epoch 5, lr: 0.0002819, train loss: 1.27477, valid loss: 0.35280, Acc: 85.6184
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 13:01:14 2022 Fold 1, Epoch 6, lr: 0.0002684, train loss: 1.06536, valid loss: 0.35034, Acc: 85.4386
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 13:34:18 2022 Fold 1, Epoch 7, lr: 0.0002516, train loss: 0.82690, valid loss: 0.35130, Acc: 85.5795
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 14:07:36 2022 Fold 1, Epoch 8, lr: 0.0002320, train loss: 0.55776, valid loss: 0.35834, Acc: 85.5484
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 14:40:47 2022 Fold 1, Epoch 9, lr: 0.0002103, train loss: 0.36625, valid loss: 0.36065, Acc: 85.1424
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 15:14:24 2022 Fold 1, Epoch 10, lr: 0.0001868, train loss: 0.27459, valid loss: 0.36878, Acc: 85.0059
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 15:57:59 2022 Fold 1, Epoch 11, lr: 0.0001624, train loss: 0.22592, valid loss: 0.38012, Acc: 85.1744
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 16:41:05 2022 Fold 1, Epoch 12, lr: 0.0001376, train loss: 0.19118, valid loss: 0.38774, Acc: 84.7147
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 17:24:48 2022 Fold 1, Epoch 13, lr: 0.0001132, train loss: 0.16436, valid loss: 0.40536, Acc: 83.6543
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 18:08:16 2022 Fold 1, Epoch 14, lr: 0.0000897, train loss: 0.13926, valid loss: 0.43182, Acc: 83.1793
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 18:50:46 2022 Fold 1, Epoch 15, lr: 0.0000680, train loss: 0.11740, valid loss: 0.47278, Acc: 83.8100
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 19:33:22 2022 Fold 1, Epoch 16, lr: 0.0000484, train loss: 0.09661, valid loss: 0.52226, Acc: 83.4335
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 20:16:10 2022 Fold 1, Epoch 17, lr: 0.0000316, train loss: 0.07746, valid loss: 0.58641, Acc: 82.8851
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 20:59:38 2022 Fold 1, Epoch 18, lr: 0.0000181, train loss: 0.06290, valid loss: 0.63265, Acc: 82.9265
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 21:42:37 2022 Fold 1, Epoch 19, lr: 0.0000081, train loss: 0.05304, valid loss: 0.67264, Acc: 82.6973
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 22:25:54 2022 Fold 1, Epoch 20, lr: 0.0000020, train loss: 0.04825, valid loss: 0.67281, Acc: 82.5761
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 23:09:41 2022 Fold 2, Epoch 1, lr: 0.0000300, train loss: 1.97034, valid loss: 0.35450, Acc: 85.4851
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Sun Feb 27 23:53:11 2022 Fold 2, Epoch 2, lr: 0.0003000, train loss: 1.76135, valid loss: 0.34764, Acc: 85.5535
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 00:36:17 2022 Fold 2, Epoch 3, lr: 0.0002980, train loss: 1.62321, valid loss: 0.34839, Acc: 85.3276
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 01:19:43 2022 Fold 2, Epoch 4, lr: 0.0002919, train loss: 1.51189, valid loss: 0.34649, Acc: 85.6620
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 02:03:25 2022 Fold 2, Epoch 5, lr: 0.0002819, train loss: 1.34358, valid loss: 0.35291, Acc: 85.5208
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 02:46:48 2022 Fold 2, Epoch 6, lr: 0.0002684, train loss: 1.09050, valid loss: 0.35628, Acc: 85.3960
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 03:29:41 2022 Fold 2, Epoch 7, lr: 0.0002516, train loss: 0.83163, valid loss: 0.36006, Acc: 85.2884
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 04:12:36 2022 Fold 2, Epoch 8, lr: 0.0002320, train loss: 0.55759, valid loss: 0.35884, Acc: 85.1106
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 04:55:38 2022 Fold 2, Epoch 9, lr: 0.0002103, train loss: 0.36881, valid loss: 0.36457, Acc: 85.0972
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 05:38:07 2022 Fold 2, Epoch 10, lr: 0.0001868, train loss: 0.27432, valid loss: 0.37023, Acc: 84.7618
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 06:21:02 2022 Fold 2, Epoch 11, lr: 0.0001624, train loss: 0.22544, valid loss: 0.37827, Acc: 84.6226
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 07:03:44 2022 Fold 2, Epoch 12, lr: 0.0001376, train loss: 0.18824, valid loss: 0.39403, Acc: 84.0306
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 07:46:12 2022 Fold 2, Epoch 13, lr: 0.0001132, train loss: 0.16194, valid loss: 0.41441, Acc: 84.0376
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 08:29:05 2022 Fold 2, Epoch 14, lr: 0.0000897, train loss: 0.13575, valid loss: 0.44178, Acc: 83.8245
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 09:11:58 2022 Fold 2, Epoch 15, lr: 0.0000680, train loss: 0.11360, valid loss: 0.48491, Acc: 82.7594
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 09:54:39 2022 Fold 2, Epoch 16, lr: 0.0000484, train loss: 0.09232, valid loss: 0.53459, Acc: 82.9224
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 10:37:29 2022 Fold 2, Epoch 17, lr: 0.0000316, train loss: 0.07309, valid loss: 0.59363, Acc: 83.0007
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 11:20:29 2022 Fold 2, Epoch 18, lr: 0.0000181, train loss: 0.05832, valid loss: 0.65777, Acc: 82.9833
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 12:03:36 2022 Fold 2, Epoch 19, lr: 0.0000081, train loss: 0.04892, valid loss: 0.69737, Acc: 83.1186
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 12:46:36 2022 Fold 2, Epoch 20, lr: 0.0000020, train loss: 0.04447, valid loss: 0.68913, Acc: 82.6841
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 13:29:18 2022 Fold 3, Epoch 1, lr: 0.0000300, train loss: 1.97538, valid loss: 0.34668, Acc: 85.6356
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 14:12:00 2022 Fold 3, Epoch 2, lr: 0.0003000, train loss: 1.76251, valid loss: 0.34088, Acc: 85.7317
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 14:54:58 2022 Fold 3, Epoch 3, lr: 0.0002980, train loss: 1.62032, valid loss: 0.34386, Acc: 85.7799
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 15:38:25 2022 Fold 3, Epoch 4, lr: 0.0002919, train loss: 1.46401, valid loss: 0.34587, Acc: 85.7927
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 16:22:18 2022 Fold 3, Epoch 5, lr: 0.0002819, train loss: 1.25127, valid loss: 0.34679, Acc: 85.7267
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 17:06:06 2022 Fold 3, Epoch 6, lr: 0.0002684, train loss: 1.04235, valid loss: 0.34783, Acc: 85.3928
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 17:50:12 2022 Fold 3, Epoch 7, lr: 0.0002516, train loss: 0.79907, valid loss: 0.35035, Acc: 85.5598
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 18:35:57 2022 Fold 3, Epoch 8, lr: 0.0002320, train loss: 0.53484, valid loss: 0.35269, Acc: 85.2628
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 19:21:09 2022 Fold 3, Epoch 9, lr: 0.0002103, train loss: 0.35496, valid loss: 0.35749, Acc: 85.0618
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 20:05:18 2022 Fold 3, Epoch 10, lr: 0.0001868, train loss: 0.27005, valid loss: 0.36487, Acc: 84.8776
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 20:48:37 2022 Fold 3, Epoch 11, lr: 0.0001624, train loss: 0.22127, valid loss: 0.37289, Acc: 85.0002
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 21:32:29 2022 Fold 3, Epoch 12, lr: 0.0001376, train loss: 0.18524, valid loss: 0.38569, Acc: 84.5983
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 22:16:00 2022 Fold 3, Epoch 13, lr: 0.0001132, train loss: 0.15716, valid loss: 0.40473, Acc: 84.0447
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 22:57:58 2022 Fold 3, Epoch 14, lr: 0.0000897, train loss: 0.13520, valid loss: 0.43234, Acc: 83.6798
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Mon Feb 28 23:41:52 2022 Fold 3, Epoch 15, lr: 0.0000680, train loss: 0.11275, valid loss: 0.47174, Acc: 83.3039
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Tue Mar  1 00:25:22 2022 Fold 3, Epoch 16, lr: 0.0000484, train loss: 0.09159, valid loss: 0.52832, Acc: 83.6507
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Tue Mar  1 01:08:46 2022 Fold 3, Epoch 17, lr: 0.0000316, train loss: 0.07285, valid loss: 0.58325, Acc: 82.8434
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Tue Mar  1 01:52:14 2022 Fold 3, Epoch 18, lr: 0.0000181, train loss: 0.05838, valid loss: 0.63156, Acc: 82.6804
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Tue Mar  1 02:35:38 2022 Fold 3, Epoch 19, lr: 0.0000081, train loss: 0.04935, valid loss: 0.67174, Acc: 82.9912
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
+Tue Mar  1 03:19:49 2022 Fold 3, Epoch 20, lr: 0.0000020, train loss: 0.04467, valid loss: 0.68825, Acc: 83.0232
+ L1-2 auc : 0.000000, L2-3 auc : 0.000000, L3-4 auc : 0.000000, L4- auc : 0.000000, L5-S1 auc : 0.000000
